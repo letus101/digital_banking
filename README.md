@@ -151,7 +151,7 @@ L'API utilise JWT (JSON Web Token) pour l'authentification. La plupart des point
 - MIME Abdelhakim
 - TAKI Oussama
 - FARID Oussama
-- REZOUK Walid
+- RAZZOUK Walid
 
 ## Licence
 Ce projet est sous licence MIT
